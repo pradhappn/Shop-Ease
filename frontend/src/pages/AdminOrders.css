@@ -1,0 +1,47 @@
+.admin-orders-page {
+    min-height: 100vh;
+    padding: var(--spacing-xl) 0;
+}
+
+.orders-table {
+    background: var(--color-bg-card);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: var(--radius-lg);
+    padding: var(--spacing-lg);
+    margin-top: var(--spacing-lg);
+    overflow-x: auto;
+}
+
+.order-id {
+    font-family: monospace;
+    color: var(--color-primary);
+    font-weight: 600;
+}
+
+.status-select {
+    padding: 0.5rem;
+    background: var(--color-bg-secondary);
+    border: 2px solid var(--color-bg-tertiary);
+    border-radius: var(--radius-md);
+    color: var(--color-text-primary);
+    cursor: pointer;
+    transition: all var(--transition-normal);
+}
+
+.status-select:focus {
+    outline: none;
+    border-color: var(--color-primary);
+}
+
+.no-orders {
+    text-align: center;
+    padding: var(--spacing-xl);
+    color: var(--color-text-secondary);
+}
+
+@media (max-width: 768px) {
+    .orders-table {
+        overflow-x: scroll;
+    }
+}

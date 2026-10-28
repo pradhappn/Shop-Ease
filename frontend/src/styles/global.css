@@ -1,0 +1,18 @@
+/* global.css */
+
+:root {
+    --white: #ffffff;
+    --black: #222222;
+    --dark-grey: #444444;
+    --grey: #777777;
+    --light-grey: #e5e5e5;
+    --border-grey: #d6d6d6;
+    --background-grey: #f7f7f7;
+}
+
+body {
+    margin: 0;
+    background: var(--white);
+    color: var(--black);
+    font-family: Arial, sans-serif;
+}

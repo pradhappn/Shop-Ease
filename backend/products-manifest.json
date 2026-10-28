@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Men's Maroon Casual Shirt",
+    "description": "A versatile maroon button-down shirt for casual outings and smart-casual occasions.",
+    "price": 1299,
+    "image": "/products/mens-maroon-casual-shirt.jpg",
+    "category": "Fashion",
+    "stock": 18
+  },
+  {
+    "name": "Beige Polo Shirt",
+    "description": "A classic beige polo shirt with a clean, everyday look.",
+    "price": 999,
+    "image": "/products/beige-polo-shirt.jpg",
+    "category": "Fashion",
+    "stock": 20
+  },
+  {
+    "name": "Brown Leather Dress Shoes",
+    "description": "Classic brown dress shoes for office wear, events, and formal occasions.",
+    "price": 2499,
+    "image": "/products/brown-leather-dress-shoes.jpg",
+    "category": "Fashion",
+    "stock": 12
+  },
+  {
+    "name": "Beige Casual Trousers",
+    "description": "Neutral beige trousers designed to pair easily with shirts and polos.",
+    "price": 1499,
+    "image": "/products/beige-casual-trousers.jpg",
+    "category": "Fashion",
+    "stock": 15
+  },
+  {
+    "name": "Laptop Workspace Setup",
+    "description": "A laptop-focused workspace product listing. Confirm the exact laptop model and specifications before selling.",
+    "price": 54999,
+    "image": "/products/laptop-workspace.jpg",
+    "category": "Electronics",
+    "stock": 5
+  },
+  {
+    "name": "Everyday Tech Accessories",
+    "description": "A curated-looking tech accessories image featuring everyday personal devices. Confirm the exact included items before selling.",
+    "price": 2499,
+    "image": "/products/everyday-tech-accessories.jpg",
+    "category": "Electronics",
+    "stock": 10
+  },
+  {
+    "name": "USB-C Fast Charging Cable",
+    "description": "A USB-C charging cable for compatible devices. Confirm wattage and device compatibility before selling.",
+    "price": 799,
+    "image": "/products/usb-c-fast-charging-cable.jpg",
+    "category": "Electronics",
+    "stock": 30
+  },
+  {
+    "name": "Black Frame Sunglasses",
+    "description": "Black-frame sunglasses with a minimal, everyday style. Confirm UV protection specifications before selling.",
+    "price": 1299,
+    "image": "/products/black-sunglasses.jpg",
+    "category": "Accessories",
+    "stock": 18
+  },
+  {
+    "name": "Light Blue Casual Sneakers",
+    "description": "Light blue casual sneakers suitable for everyday outfits.",
+    "price": 2299,
+    "image": "/products/light-blue-sneakers.jpg",
+    "category": "Fashion",
+    "stock": 14
+  },
+  {
+    "name": "Smartphone",
+    "description": "A modern smartphone product image. Add the exact brand, model, storage, and network specifications before selling.",
+    "price": 15999,
+    "image": "/products/smartphone.jpg",
+    "category": "Electronics",
+    "stock": 8
+  },
+  {
+    "name": "Wireless Earbuds",
+    "description": "Compact wireless earbuds for listening on the go. Confirm the exact model and features before selling.",
+    "price": 1999,
+    "image": "/products/wireless-earbuds.jpg",
+    "category": "Electronics",
+    "stock": 16
+  },
+  {
+    "name": "Travel Laptop Backpack",
+    "description": "A black travel backpack designed to carry everyday essentials and a laptop.",
+    "price": 1799,
+    "image": "/products/travel-laptop-backpack.jpg",
+    "category": "Accessories",
+    "stock": 15
+  },
+  {
+    "name": "Fossil Analog Watch",
+    "description": "A Fossil-style analog chronograph watch image. Verify authenticity, model, and warranty before selling under a brand name.",
+    "price": 7499,
+    "image": "/products/fossil-analog-watch.jpg",
+    "category": "Accessories",
+    "stock": 7
+  },
+  {
+    "name": "MacBook Air M3",
+    "description": "A MacBook Air M3 product image. Verify configuration, condition, and warranty before selling.",
+    "price": 89999,
+    "image": "/products/macbook-air-m3.jpg",
+    "category": "Electronics",
+    "stock": 4
+  },
+  {
+    "name": "Apple Watch SE",
+    "description": "An Apple Watch SE product image. Verify generation, size, connectivity, and warranty before selling.",
+    "price": 24999,
+    "image": "/products/apple-watch-se.jpg",
+    "category": "Electronics",
+    "stock": 6
+  },
+  {
+    "name": "Brown Textured Casual Shirt",
+    "description": "A brown textured button-down shirt for casual and party wear.",
+    "price": 1399,
+    "image": "/products/brown-textured-casual-shirt.jpg",
+    "category": "Fashion",
+    "stock": 18
+  },
+  {
+    "name": "Beige Pullover Hoodie",
+    "description": "A beige pullover hoodie with a simple, relaxed silhouette.",
+    "price": 1599,
+    "image": "/products/beige-hoodie.jpg",
+    "category": "Fashion",
+    "stock": 16
+  },
+  {
+    "name": "MacBook Pro 14-inch",
+    "description": "A 14-inch MacBook Pro product image. Verify chip, memory, storage, keyboard layout, condition, and warranty before selling.",
+    "price": 129999,
+    "image": "/products/macbook-pro-14.jpg",
+    "category": "Electronics",
+    "stock": 3
+  },
+  {
+    "name": "Men's Leather Belt",
+    "description": "A brown leather-look belt for formal and casual outfits. Confirm material details before selling.",
+    "price": 999,
+    "image": "/products/mens-leather-belt.jpg",
+    "category": "Accessories",
+    "stock": 22
+  },
+  {
+    "name": "Stainless Steel Men's Watch",
+    "description": "A dark stainless-steel-style wristwatch with a clean, understated dial.",
+    "price": 2999,
+    "image": "/products/stainless-steel-watch.jpg",
+    "category": "Accessories",
+    "stock": 12
+  },
+  {
+    "name": "Men's Fragrance",
+    "description": "A men's fragrance product image. Verify bottle size, seller authorization, and authenticity before selling under a brand name.",
+    "price": 6999,
+    "image": "/products/mens-fragrance.jpg",
+    "category": "Beauty",
+    "stock": 8
+  },
+  {
+    "name": "Slim 2-in-1 Laptop",
+    "description": "A slim convertible laptop product image. Confirm the exact brand, processor, memory, and storage before selling.",
+    "price": 62999,
+    "image": "/products/two-in-one-laptop.jpg",
+    "category": "Electronics",
+    "stock": 4
+  },
+  {
+    "name": "Wireless Computer Mouse",
+    "description": "A sleek black wireless mouse for everyday computer use. Confirm connectivity and battery details before selling.",
+    "price": 899,
+    "image": "/products/wireless-computer-mouse.jpg",
+    "category": "Electronics",
+    "stock": 25
+  }
+]

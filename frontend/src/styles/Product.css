@@ -1,0 +1,136 @@
+
+.page-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
+
+.products-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 32px;
+}
+
+.products-heading h1 {
+  margin: 8px 0;
+  font-size: clamp(28px, 4vw, 40px);
+}
+
+.products-heading p {
+  color: #647267;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.product-card {
+  overflow: hidden;
+  border: 1px solid #e8ece6;
+  border-radius: 10px;
+  background: white;
+}
+
+.product-card-image {
+  display: grid;
+  place-items: center;
+  height: 210px;
+  padding: 15px;
+  background: #f5f6f2;
+}
+
+.product-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.product-card-content {
+  padding: 16px;
+}
+
+.product-card-category {
+  color: #647267;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.product-card-content h2 {
+  font-size: 18px;
+}
+
+.product-card-content h2 a {
+  color: #17251f;
+  text-decoration: none;
+}
+
+.product-card-description {
+  color: #647267;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.product-card-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.product-card-bottom strong {
+  font-size: 18px;
+}
+
+.primary-link {
+  display: inline-block;
+  padding: 9px 12px;
+  border-radius: 6px;
+  background: #245c43;
+  color: white;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.product-stock {
+  color: #267346;
+  font-size: 12px;
+}
+
+.products-empty {
+  padding: 50px 20px;
+  text-align: center;
+  background: #f7f8f4;
+  border-radius: 10px;
+}
+
+.products-empty p {
+  margin-bottom: 22px;
+  color: #647267;
+}
+
+@media (max-width: 950px) {
+  .products-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .page-container {
+    padding: 28px 16px;
+  }
+
+  .products-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .products-heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
